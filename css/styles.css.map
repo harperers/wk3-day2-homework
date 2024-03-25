@@ -1,0 +1,1 @@
+{"version":3,"sourceRoot":"","sources":["../scss/styles.scss","../scss/colors.scss"],"names":[],"mappings":"AAMA;EACI,OCHS;EDIT;;;AAGJ;EACI,kBCZW;EDaX;EACA;EACA;EACA;EACA;EACA;EACA;;AAEA;EACI,kBCrBY;EDsBZ;EACA;EACA;;AAGJ;EACI,kBC3BY;ED4BZ;EACA;EACA;;AAEA;EACI,kBChCG;EDiCH,OCnCQ;EDoCR;EACA;EACA;EACA;EACA;EACA;EACA;EACA;EAGA;EACA;EACA;EACA;;AAGR;EAnDA;EACA","file":"styles.css"}
